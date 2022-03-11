@@ -1,0 +1,10 @@
+Ion
+11
+Pikachu;Scut;Vitamine;Pelerina
+Jigglypuff;Scut;Vitamine;Pelerina
+Psyduck;Scut;Vitamine;Pelerina
+Ionela
+13
+Snorlax;Scut;Vitamine;Pelerina
+Vulpix;Scut;Vitamine;Pelerina
+Bulbasaur;Scut;Vitamine;Pelerina
