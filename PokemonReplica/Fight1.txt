@@ -1,0 +1,10 @@
+Zavu
+20
+Pikachu;Scut;Vesta;Sabiuta;
+Bulbasaur;Scut;Vesta;Sabiuta;
+Charmander;Scut;Vesta;Sabiuta;
+Savu
+21
+Bulbasaur;Scut;Vesta;Sabiuta;
+Eevee;Scut;Vesta;Sabiuta;
+Vulpix;Scut;Vesta;Sabiuta;

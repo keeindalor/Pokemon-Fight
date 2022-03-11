@@ -1,0 +1,10 @@
+Bodan
+20
+Squirtle;Bagheta Magica;Vitamine;Brad de Craciun
+Snorlax;Bagheta Magica;Vitamine;Brad de Craciun
+Vulpix;Bagheta Magica;Vitamine;Brad de Craciun
+Savu
+21
+Pikachu;Bagheta Magica;Vitamine;Brad de Craciun
+Eevee;Bagheta Magica;Vitamine;Brad de Craciun
+Meowth;Bagheta Magica;Vitamine;Brad de Craciun
